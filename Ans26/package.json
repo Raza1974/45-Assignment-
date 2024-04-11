@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "init": "^0.1.2"
+  },
+  "name": "ans26",
+  "version": "1.0.0",
+  "description": "Choose a color for an alien as you did in Exercise 25, and write an if-else chain",
+  "main": "index.js",
+  "type": "module",
+  "Bin": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raza",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  },
+  "name": "ans20",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
